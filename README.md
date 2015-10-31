@@ -1,2 +1,2 @@
-# Soundex-Hashing-c-
-Hashing a name with Soundex Hashing.
+# Soundex-Hashing-c#-
+Hashing a string with Soundex Hashing.
